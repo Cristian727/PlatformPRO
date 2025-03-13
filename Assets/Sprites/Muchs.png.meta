@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 40c5ed243d95dde479884042b33e40cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3136904600101157938
+    second: Muchs_0
+  - first:
+      213: 1099043570343811171
+    second: Muchs_1
+  - first:
+      213: -8408579293531476816
+    second: Muchs_2
+  - first:
+      213: -4541641750558489301
+    second: Muchs_3
+  - first:
+      213: -5546268186500279581
+    second: Muchs_4
+  - first:
+      213: -1458377463244825940
+    second: Muchs_5
+  - first:
+      213: -1003264407618257428
+    second: Muchs_6
+  - first:
+      213: 8428446739341967546
+    second: Muchs_7
+  - first:
+      213: 3888361854520453526
+    second: Muchs_8
+  - first:
+      213: -296018582788591087
+    second: Muchs_9
+  - first:
+      213: -7852058142242712402
+    second: Muchs_10
+  - first:
+      213: 4416668712662351583
+    second: Muchs_11
+  - first:
+      213: -5436148762702930358
+    second: Muchs_12
+  - first:
+      213: 5824655744158027072
+    second: Muchs_13
+  - first:
+      213: -666371366121110792
+    second: Muchs_14
+  - first:
+      213: -4822572488727414082
+    second: Muchs_15
+  - first:
+      213: -4088904408355066248
+    second: Muchs_16
+  - first:
+      213: -6424930551842598116
+    second: Muchs_17
+  - first:
+      213: -3444654325874974666
+    second: Muchs_18
+  - first:
+      213: -7777027823311276566
+    second: Muchs_19
+  - first:
+      213: -3521546726853107876
+    second: Muchs_20
+  - first:
+      213: -5377830880734133586
+    second: Muchs_21
+  - first:
+      213: -6039450503591524517
+    second: Muchs_22
+  - first:
+      213: -7629576987182797978
+    second: Muchs_23
+  - first:
+      213: 4439282974139963671
+    second: Muchs_24
+  - first:
+      213: 3282630399533119223
+    second: Muchs_25
+  - first:
+      213: -3069609432527144716
+    second: Muchs_26
+  - first:
+      213: -2999377521415300465
+    second: Muchs_27
+  - first:
+      213: 1485199216890275024
+    second: Muchs_28
+  - first:
+      213: 626891218482834257
+    second: Muchs_29
+  - first:
+      213: -8642637667427193202
+    second: Muchs_30
+  - first:
+      213: -2989834871113416248
+    second: Muchs_31
+  - first:
+      213: 4380071241107963628
+    second: Muchs_32
+  - first:
+      213: -7293228618755068961
+    second: Muchs_33
+  - first:
+      213: 3384698561694225424
+    second: Muchs_34
+  - first:
+      213: -429412815884587862
+    second: Muchs_35
+  - first:
+      213: 2731758251304212355
+    second: Muchs_36
+  - first:
+      213: 8746142942095657251
+    second: Muchs_37
+  - first:
+      213: 735442345212442980
+    second: Muchs_38
+  - first:
+      213: -6199832484164205252
+    second: Muchs_39
+  - first:
+      213: -956408214330471096
+    second: Muchs_40
+  - first:
+      213: 9112203582272728774
+    second: Muchs_41
+  - first:
+      213: 9134981483096571875
+    second: Muchs_42
+  - first:
+      213: -3250191408557015383
+    second: Muchs_43
+  - first:
+      213: -3334401502247731102
+    second: Muchs_44
+  - first:
+      213: 7547861303721351451
+    second: Muchs_45
+  - first:
+      213: 2818689375953726974
+    second: Muchs_46
+  - first:
+      213: -6634844198137999787
+    second: Muchs_47
+  - first:
+      213: 7841326636281346597
+    second: Muchs_48
+  - first:
+      213: -6332929448542862052
+    second: Muchs_49
+  - first:
+      213: 7724229169621855947
+    second: Muchs_50
+  - first:
+      213: -8768277997011653869
+    second: Muchs_51
+  - first:
+      213: -8996762599557519352
+    second: Muchs_52
+  - first:
+      213: -7290768180693426192
+    second: Muchs_53
+  - first:
+      213: -7502895813297175887
+    second: Muchs_54
+  - first:
+      213: -9210926255427902487
+    second: Muchs_55
+  - first:
+      213: 2398924516450221250
+    second: Muchs_56
+  - first:
+      213: 9081344072824729329
+    second: Muchs_57
+  - first:
+      213: 9072182503149371852
+    second: Muchs_58
+  - first:
+      213: 5818596867842804071
+    second: Muchs_59
+  - first:
+      213: -5715562995877998122
+    second: Muchs_60
+  - first:
+      213: 2646860708469308284
+    second: Muchs_61
+  - first:
+      213: -6720557842723878535
+    second: Muchs_62
+  - first:
+      213: -6929477640414077404
+    second: Muchs_63
+  - first:
+      213: -1519411150174247982
+    second: Muchs_64
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muchs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 160
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01cad0b125d174b853e85e64da2152
+      internalID: -460086507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 543
+        width: 160
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc18ff1ef222aa408d6115a3e01b92b
+      internalID: -1130832712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 543
+        width: 160
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2282702f7a57abe418a20d2c7cfdc9a3
+      internalID: -727591201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 543
+        width: 160
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90923bcffa268740971d75d32aeea83
+      internalID: -1840206056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 543
+        width: 160
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b730c6f11735d545bb08041ac1a1976
+      internalID: 1478125642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 543
+        width: 160
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eeb6ee7f11475488686f3313496a7e
+      internalID: -611351625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b40e6fe65dd59c4a85e209c2358b7a4
+      internalID: 1700653532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff240bc697ca9f14c9d636205d71bc95
+      internalID: -640101293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b5e27f64d75f418235b3beeb7f366
+      internalID: 525384755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d71b4de0c4e574284688514fac1b81
+      internalID: -975234108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a43c7bf27ad94889bb3aa5f2472bb
+      internalID: 226245820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 256
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bb10da4b023954fa87c54443ca49a6
+      internalID: 44009640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2952c69086c08b448a4144855e2d79ee
+      internalID: -61821713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4ddb8f1202bf4190410343bed3e6e
+      internalID: -442486327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47efb6b931e007c479cceb704bc6ea58
+      internalID: 2026599256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56bca1db35ea2948aa86db2e4a72c8c
+      internalID: -867245822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d5f9c55e26ce7469e07d41e6383e55
+      internalID: -703710903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muchs_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c1be97f1191f943833491f7fe5b32e
+      internalID: -1670134788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f5de6bb828f819e4e85933e5324a9756
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Muchs_0: -460086507
+      Muchs_1: -1130832712
+      Muchs_10: 226245820
+      Muchs_11: 44009640
+      Muchs_12: -61821713
+      Muchs_13: -442486327
+      Muchs_14: 2026599256
+      Muchs_15: -867245822
+      Muchs_16: -703710903
+      Muchs_17: -1670134788
+      Muchs_2: -727591201
+      Muchs_3: -1840206056
+      Muchs_4: 1478125642
+      Muchs_5: -611351625
+      Muchs_6: 1700653532
+      Muchs_7: -640101293
+      Muchs_8: 525384755
+      Muchs_9: -975234108
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 667c66fd789fffc4e8fb7db59e76108c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2013438808492106046
+    second: 2DGrassyPlatformerSprites_0
+  - first:
+      213: 5163375193122909764
+    second: 2DGrassyPlatformerSprites_1
+  - first:
+      213: -1878042763195613469
+    second: 2DGrassyPlatformerSprites_2
+  - first:
+      213: -7220896580408108987
+    second: 2DGrassyPlatformerSprites_3
+  - first:
+      213: -7159054659480376890
+    second: 2DGrassyPlatformerSprites_4
+  - first:
+      213: 5660263917079122411
+    second: 2DGrassyPlatformerSprites_5
+  - first:
+      213: 7060357601000018586
+    second: 2DGrassyPlatformerSprites_6
+  - first:
+      213: 2594135747117864374
+    second: 2DGrassyPlatformerSprites_7
+  - first:
+      213: 8004552213410955040
+    second: 2DGrassyPlatformerSprites_8
+  - first:
+      213: -8389863882464602404
+    second: 2DGrassyPlatformerSprites_9
+  - first:
+      213: 3771399924287359878
+    second: 2DGrassyPlatformerSprites_10
+  - first:
+      213: 1921860093593269828
+    second: 2DGrassyPlatformerSprites_11
+  - first:
+      213: 8283628673008594074
+    second: 2DGrassyPlatformerSprites_12
+  - first:
+      213: 3385285553087311439
+    second: 2DGrassyPlatformerSprites_13
+  - first:
+      213: 7502378811646598220
+    second: 2DGrassyPlatformerSprites_14
+  - first:
+      213: -8334876934100097580
+    second: 2DGrassyPlatformerSprites_15
+  - first:
+      213: -7290291415841613131
+    second: 2DGrassyPlatformerSprites_16
+  - first:
+      213: -8766122853326040577
+    second: 2DGrassyPlatformerSprites_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 863
+        width: 223
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce97d24214de04e0800000000000000
+      internalID: -2013438808492106046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 861
+        width: 262
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ea724a16ef7a740800000000000000
+      internalID: 5163375193122909764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_2
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1000
+        width: 270
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee7bb2ae0adfe5e0800000000000000
+      internalID: -1878042763195613469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 909
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54811fc61d83acb90800000000000000
+      internalID: -7220896580408108987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_4
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 883
+        width: 316
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9211ea7bde5ac90800000000000000
+      internalID: -7159054659480376890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_5
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 781
+        width: 129
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be156701b0c4d8e40800000000000000
+      internalID: 5660263917079122411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_6
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 835
+        width: 392
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92d5daa4dd6bf160800000000000000
+      internalID: 7060357601000018586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 800
+        width: 501
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b55a1ab7b8300420800000000000000
+      internalID: 2594135747117864374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 788
+        width: 338
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f3d6204d1e51f60800000000000000
+      internalID: 8004552213410955040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 183
+        width: 569
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd651d31047319b80800000000000000
+      internalID: -8389863882464602404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 410
+        width: 121
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b4519df34b65430800000000000000
+      internalID: 3771399924287359878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_11
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 462
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44630aa9291dbaa10800000000000000
+      internalID: 1921860093593269828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_12
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 183
+        width: 385
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ceae9b36c55f270800000000000000
+      internalID: 8283628673008594074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_13
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 191
+        width: 152
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ee7074643fafe20800000000000000
+      internalID: 3385285553087311439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_14
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 418
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cdc96a7cdcd1860800000000000000
+      internalID: 7502378811646598220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_15
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 317
+        width: 472
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5ed58a691945c80800000000000000
+      internalID: -8334876934100097580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_16
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 202
+        width: 276
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba5ea9359ea3da90800000000000000
+      internalID: -7290291415841613131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGrassyPlatformerSprites_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 9
+        width: 1701
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff15116b5b9785680800000000000000
+      internalID: -8766122853326040577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2DGrassyPlatformerSprites_0: -2013438808492106046
+      2DGrassyPlatformerSprites_1: 5163375193122909764
+      2DGrassyPlatformerSprites_10: 3771399924287359878
+      2DGrassyPlatformerSprites_11: 1921860093593269828
+      2DGrassyPlatformerSprites_12: 8283628673008594074
+      2DGrassyPlatformerSprites_13: 3385285553087311439
+      2DGrassyPlatformerSprites_14: 7502378811646598220
+      2DGrassyPlatformerSprites_15: -8334876934100097580
+      2DGrassyPlatformerSprites_16: -7290291415841613131
+      2DGrassyPlatformerSprites_17: -8766122853326040577
+      2DGrassyPlatformerSprites_2: -1878042763195613469
+      2DGrassyPlatformerSprites_3: -7220896580408108987
+      2DGrassyPlatformerSprites_4: -7159054659480376890
+      2DGrassyPlatformerSprites_5: 5660263917079122411
+      2DGrassyPlatformerSprites_6: 7060357601000018586
+      2DGrassyPlatformerSprites_7: 2594135747117864374
+      2DGrassyPlatformerSprites_8: 8004552213410955040
+      2DGrassyPlatformerSprites_9: -8389863882464602404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

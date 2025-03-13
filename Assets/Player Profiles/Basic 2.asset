@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44c6df3769dc0d44b9d4279926f0d621, type: 3}
+  m_Name: Basic 2
+  m_EditorClassIdentifier: 
+  groundAcceleration: 50
+  groundFriction: 1.01
+  groundMaxSpeedX: 15
+  airAcceleration: 10
+  airFriction: 1.002
+  airMaxSpeedX: 10
+  maxFallSpeed: 10
+  jumpStrength: 15
+  maxJumpPressTime: 0.5
+  onAirJumps: 1
+  upGravity: 3
+  downGravity: 8
+  yVelocityLowGravityThreshold: 1
+  peakGravity: 1
