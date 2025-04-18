@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 821fc43d67bd8dd4a8342a9bfd7c48ac
+timeCreated: 1435779140
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 40588
+  packageName: FurBall 2D V1.2 mobile optimized
+  packageVersion: 1.2
+  assetPath: Assets/FurBall2D/Animations/Furfly_idle.anim
+  uploadId: 89137
